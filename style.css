@@ -1,1 +1,9 @@
 
+body {
+    font-family: Arial, sans-serif; /* Sets the font for the whole page */
+    color: #333;                     /* Text color (dark gray) */
+    background-color: #7b30cf       /* Page background color (light gray) */
+    margin: 10px;                     /* Space outside the body edges */
+    padding: 5px;                     /* Space inside the body edges */
+    line-height: 1.6;                 /* Spacing between lines of text */
+}
