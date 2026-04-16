@@ -23,6 +23,7 @@ body {
 
 .section-it {
     justify-content: center;
+    display: flex;
     flex-direction: row;
     border: solid;
     margin: 4px;
