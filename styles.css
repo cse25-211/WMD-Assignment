@@ -11,11 +11,15 @@ body {
     dispaly: flex;
 }
 
+
+
 .sectionindaside {
-    border: solid;
-    margin: 4px;
-    padding: 2px;
+    display: flex;
+    border: 4px;
+    border-style: solid;
     border-color: green;
+    margin: 10px;
+    padding: 4px;
 }
 
 .section-it {
