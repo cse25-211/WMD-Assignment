@@ -14,7 +14,6 @@ body {
 
 
 .sectionindaside {
-    display: flex;
     border: 4px;
     border-style: solid;
     border-color: green;
