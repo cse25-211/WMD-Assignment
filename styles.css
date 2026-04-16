@@ -11,6 +11,10 @@ body {
     display: flex;
 }  
 
+.sectionind {
+    display: flex;
+}    
+
 
 
 header {
