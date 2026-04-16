@@ -7,6 +7,13 @@ body {
     line-height: 1.6;                
 }  
 
+.sectionindaside {
+    border: solid;
+    margin: 4px;
+    padding: 2px;
+    border-color: green;
+}
+
 .section-it {
     display: flex;
     justify-content: center;
