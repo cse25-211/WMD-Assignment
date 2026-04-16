@@ -7,12 +7,7 @@ body {
     line-height: 1.6;                
 }  
 
-.mainmain{
-    border: solid;
-    margin: 4px;
-    padding: 2px;
-    border-color: green; 
-    boredr-style: solid;
+.mainmain {
     dispaly: flex;
 }
 
