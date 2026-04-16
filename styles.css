@@ -8,7 +8,7 @@ body {
 }  
 
 .mainmain {
-    dispaly: flex;
+    flex-direction: row;
 }
 
 
