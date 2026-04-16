@@ -9,7 +9,9 @@ body {
 
 #section it { 
     display: flex;
-}    
+}  
+
+
 
 header {
     background-color: #4CAF50; 
