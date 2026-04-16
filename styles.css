@@ -12,6 +12,7 @@ body {
     margin: 4px;
     padding: 2px;
     border-color: green; 
+    boredr-style: solid;
     dispaly: flex;
 }
 
