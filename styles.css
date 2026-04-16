@@ -24,6 +24,7 @@ body {
 
 .section-it {
     justify-content: center;
+    flex-direction: row;
     border: solid;
     margin: 4px;
     padding: 2px;
