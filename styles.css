@@ -21,6 +21,10 @@ body {
 .section-it {
     display: flex;
     justify-content: center;
+    border: solid;
+    margin: 4px;
+    padding: 2px;
+    border-color: green;
 }
 
 .sectionind {
